@@ -1,0 +1,24 @@
+.nav {
+    background-color: #e9e9e9;
+    color: #7e7e7e;
+}
+
+.nav > .main {
+    background-color: #fff;
+    height: 100px;
+    color: #ff00ff;
+}
+
+.nav-item {
+    display: inline-block;
+    margin-right: 25px;
+}
+
+.nav-item.icons > i {
+    /* margin: 5px 8px; */
+    margin: 5px 8px 5px 8px;
+}
+
+.nav-item.float-right {
+    float: right;
+}
